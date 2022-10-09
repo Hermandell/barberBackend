@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "correos",
+  "info": {
+    "singularName": "correo",
+    "pluralName": "correos",
+    "displayName": "correo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "email": {
+      "type": "email"
+    }
+  }
+}

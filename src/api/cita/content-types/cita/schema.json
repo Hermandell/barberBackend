@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "citas",
+  "info": {
+    "singularName": "cita",
+    "pluralName": "citas",
+    "displayName": "cita"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nombre": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "numerocell": {
+      "type": "string"
+    },
+    "sucursal": {
+      "type": "string"
+    },
+    "fecha": {
+      "type": "string"
+    },
+    "descripcion": {
+      "type": "text"
+    },
+    "total": {
+      "type": "string"
+    }
+  }
+}
