@@ -1,4 +1,4 @@
-# 🚀 Getting started with Strapi
+# 🚀 Iniciar con Strapi
 
 
 
